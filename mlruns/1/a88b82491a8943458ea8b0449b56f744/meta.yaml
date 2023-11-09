@@ -1,0 +1,15 @@
+artifact_uri: mlruns/1/a88b82491a8943458ea8b0449b56f744/artifacts
+end_time: 1699512180206
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: a88b82491a8943458ea8b0449b56f744
+run_uuid: a88b82491a8943458ea8b0449b56f744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699512177951
+status: 3
+tags: []
+user_id: auro
